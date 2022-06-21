@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <mybatis-plus-boot-starter.version>3.2.0</mybatis-plus-boot-starter.version>
-        <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <swagger2.version>2.9.1</swagger2.version>
         <lombok.version>1.18.10</lombok.version>
         <pagehelper.version>5.1.9</pagehelper.version>
